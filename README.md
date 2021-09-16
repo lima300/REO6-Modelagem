@@ -32,3 +32,7 @@ Agora temos uam listagem de tópicos
   - sub-tópico 2.1
 - Tópico 3
 - Tópico 4
+
+Caso queira dar uma olhada na disciplina acesse o [Campus Virtual](https://campusvirtual.ufla.br/presencial/course/view.php?id=32458) da UFLA para masi informações.
+
+![Bye](bye.jpg)
